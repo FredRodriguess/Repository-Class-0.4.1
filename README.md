@@ -2,5 +2,5 @@
 Aplicar, na prática, o uso de Git e GitHub em um fluxo de trabalho colaborativo, com autenticação por chave SSH e edição sequencial de um algoritmo em Portugol
 # Alunos: 
 Frederico Marion Rodrigues  
-Gabriel Buss Paludeto
+Gabriel Buss Paludeto  
 Matheus Henrique Primo Takeshita

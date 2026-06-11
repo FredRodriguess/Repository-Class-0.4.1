@@ -3,3 +3,4 @@ Aplicar, na prática, o uso de Git e GitHub em um fluxo de trabalho colaborativo
 # Alunos: 
 Frederico Marion Rodrigues  
 Gabriel Buss Paludeto
+Matheus Henrique Primo Takeshita
